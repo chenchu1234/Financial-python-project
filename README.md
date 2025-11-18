@@ -78,11 +78,12 @@ Financial-Sales-Data-Analysis/
 
 ▶️ How to Run the Project
 1. Clone the repository
-2. Install required libraries
+2. https://github.com/chenchu1234/Financial-python-project.git
+3. Install required libraries
 pip install -r requirements.txt
-3. Open the notebook
+4. Open the notebook
 jupyter notebook
-4. Run the analysis
+5. Run the analysis
 Explore visuals, insights, and conclusions step by step.
 
 🚀 Future Enhancements
